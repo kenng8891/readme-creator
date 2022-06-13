@@ -3,6 +3,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 const readMeTemplate = require("./utils/readMeTemplate");
+const badge = ""
 // TODO: Create an array of questions for user input
 const promptUser = () => {
     return inquirer.prompt([
@@ -88,7 +89,9 @@ const promptUser = () => {
             type:'list',
             name:'license',
             message:'Choose the license for this project:',
-            choices: ['BSD', 'MIT', 'GPL']
+            choices: ['BSD', 'MIT', 'GPL'],
+            id: ['[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)]', '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)', '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)']
+            
         },
         {
             type:'input',
@@ -122,11 +125,9 @@ const promptUser = () => {
                 }
             },
 
-        },
+        },   
     ])
 };
-
-
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}

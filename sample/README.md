@@ -6,9 +6,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
-    
-<h1 align="center">1</h1>
-<h2 align="center">By: 3</h2>
+<h1 alight="left"></h1>
+<h1 align="center">Big Bang Project</h1>
+<h2 align="center">By: Kenny</h2>
 
 ## Table of Contents
 - [Description](#description)
@@ -20,23 +20,23 @@
 - [Questions](#questions)
 
 ## Description 
-3
+all about the big bang
 
 ## Installation
-2
+download files from github repository
 
 ## Usage
-1
+find out more about the big bang
 
 ## License
-Licensed under the BSD license.
+Licensed under the MIT license.
 
 ## Contributing
-3
+update current statistics
 
 ## Test
-undefined  
+All of them  
 
 ## Questions
-Any inquiries please email me at 2 link to other projects on github 2
+All inquiries please email me at ng.kennyy@gmail.com link to other projects on github testgithublink.com
 

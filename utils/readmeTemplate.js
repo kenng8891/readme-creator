@@ -7,7 +7,7 @@ function readMeTemplate(data) {
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
-    
+<h1 alight="left"></h1>
 <h1 align="center">${data.projectTitle}</h1>
 <h2 align="center">By: ${data.personName}</h2>
 
@@ -39,7 +39,7 @@ ${data.contributing}
 ${data.tests}  
 
 ## Questions
-Any inquiries please email me at ${data.email} link to other projects on github ${data.username}
+All inquiries please email me at ${data.email} link to other projects on github ${data.username}
 
 `;}
 

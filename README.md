@@ -1,7 +1,7 @@
-# Professional README Generator Starter Code
-
 ## User Story
-Create a tool that a developer can use to track past projects
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
 
 ## Acceptance Criteria
 
@@ -20,6 +20,7 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
-
-Project focused on using inquirer 
+ 
 https://www.npmjs.com/package/inquirer 
+
+Link to video demo of the assignment https://drive.google.com/file/d/1U-oM6Ku4eYID44q0bws4ErRm70V7Jgi2/view
