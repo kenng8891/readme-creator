@@ -1,14 +1,11 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: BSD](https://img.shields.io/badge/License-BSD-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
 <h1 alight="left"></h1>
-<h1 align="center">Big Bang Project</h1>
-<h2 align="center">By: Kenny</h2>
+<h1 align="center">ken2</h1>
+<h2 align="center">By: ken1</h2>
 
 ## Table of Contents
 - [Description](#description)
@@ -20,23 +17,23 @@
 - [Questions](#questions)
 
 ## Description 
-all about the big bang
+ken3
 
 ## Installation
-download files from github repository
+ken4
 
 ## Usage
-find out more about the big bang
+ken5
 
 ## License
-Licensed under the MIT license.
+Licensed under the BSD license.
 
 ## Contributing
-update current statistics
+
 
 ## Test
-All of them  
+sdfsf  
 
 ## Questions
-All inquiries please email me at ng.kennyy@gmail.com link to other projects on github testgithublink.com
+All inquiries please email me at ken2 link to other projects on github ken
 
